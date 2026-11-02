@@ -1,0 +1,3 @@
+method,runs,mean_valid_matches,mean_quantity_fulfilled,mean_quantity_fulfillment_rate,mean_invalid_matches,mean_double_allocations,mean_constraint_violations,mean_execution_seconds,execution_seconds_population_stddev,mean_allocation_score,rejected_candidate_pairs,dataset_label
+greedy,25,5,16.0,0.410256,0,0,0,0.005056308,0.002057124913255391,422.74,94,SYNTHETIC_ONLY
+exhaustive_search,25,6,24.0,0.615385,0,0,0,0.050691204,0.0107320745329309,497.12,94,SYNTHETIC_ONLY

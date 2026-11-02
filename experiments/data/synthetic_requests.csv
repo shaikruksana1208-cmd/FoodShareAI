@@ -1,0 +1,13 @@
+id,category,quantity,unit,status,urgency,location,data_label
+R001,produce,5,kg,open,high,Northside,SYNTHETIC
+R002,produce,3,kg,open,medium,Northside,SYNTHETIC
+R003,produce,6,kg,open,high,Westside,SYNTHETIC
+R004,bakery,6,loaf,open,high,Northside,SYNTHETIC
+R005,dairy,2,liter,open,high,Northside,SYNTHETIC
+R006,fruit,1,kg,open,low,Eastside,SYNTHETIC
+R007,produce,2,kg,open,low,Southside,SYNTHETIC
+R008,produce,1,kg,open,medium,Westside,SYNTHETIC
+R009,produce,1,kg,open,urgent,Northside,SYNTHETIC
+R010,produce,2,,open,medium,Northside,SYNTHETIC
+R011,prepared meals,5,portion,open,high,Northside,SYNTHETIC
+R012,prepared meals,8,portion,open,low,Southside,SYNTHETIC

@@ -1,0 +1,10 @@
+id,category,quantity,unit,status,food_safe,expires_at,location,data_label
+D001,produce,8,kg,available,true,2026-01-05T12:00:00Z,Northside,SYNTHETIC
+D002,produce,5,kg,available,true,2026-01-05T12:00:00Z,Southside,SYNTHETIC
+D003,bakery,4,loaf,available,true,2026-01-04T12:00:00Z,Northside,SYNTHETIC
+D004,dairy,6,liter,available,false,2026-01-05T12:00:00Z,Northside,SYNTHETIC
+D005,fruit,3,kg,claimed,true,2026-01-05T12:00:00Z,Eastside,SYNTHETIC
+D006,produce,2,kg,available,true,2026-01-05T12:00:00Z,Westside,SYNTHETIC
+D007,,3,kg,available,true,2026-01-05T12:00:00Z,Northside,SYNTHETIC
+D008,prepared meals,8,portion,available,true,2026-01-05T12:00:00Z,Northside,SYNTHETIC
+D009,prepared meals,5,portion,available,true,2026-01-05T12:00:00Z,Southside,SYNTHETIC
